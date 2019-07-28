@@ -1,0 +1,9 @@
+{
+  "commitish" : "v1.4.0",
+  "iOS" : [
+    {
+      "name" : "Cucumberish",
+      "hash" : "2bb4bbb52abd987a450365216a65228ea4dae1470c488135dbca697b4f571705"
+    }
+  ]
+}
